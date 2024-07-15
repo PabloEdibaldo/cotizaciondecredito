@@ -11,3 +11,6 @@ public class CotizaciondecreditoApplication {
 	}
 
 }
+
+//jdbc:mysql://awseb-e-fzper6mk8m-stack-awsebrdsdatabase-spihdzc61vmt.cbm426oqgw70.us-east-1.rds.amazonaws.com/gs---
+//jdbc:mysql://awseb-e-mmvfcxjmir-stack-awsebrdsdatabase-hrwy2i4ygwco.cbm426oqgw70.us-east-1.rds.amazonaws.com/gs
